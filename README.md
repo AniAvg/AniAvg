@@ -6,8 +6,8 @@ I’m a Computer Science student focused on **system programming**, **algorithms
 
 ### Education 🎓
 
-I study Computer Science at **42 School** and at the **Faculty of Informatics and Applied Mathematics**,  
-Yerevan State University.
+- **Yerevan State University** — BSc in Informatics and Applied Mathematics (Computer Science), (2021–2025)  
+- **42 School** (ongoing)
 
 
 ### Skills
